@@ -1,4 +1,5 @@
 """This file contains the function to  calculate the Fibonacci sequence"""
+
 # My approach with for loop
 def fibonacci(num):
     sequence = []
